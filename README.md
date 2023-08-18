@@ -30,7 +30,8 @@ Accuracy is around 95-99%
 I stored the model in an object where it could be easliy delpoyed on any application
 
 This is how you import and initalize the model:
-```
+
+```python
 from logistic_model import PremierLeagueRelegationPredictor
 
 
