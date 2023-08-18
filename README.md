@@ -13,16 +13,16 @@ When I first apporached the data, I first wanted to check for any discrepencies 
 Next I wanted to see the relationships that exist in the data. The follwoing graphs show realtionships between  wins,losses, draws and goal differential. Orange points represent teams that were relegated.
 
 
-<<<<<<< HEAD
-=======
 ![ScreenShot](./1bce132b-885d-4349-9d62-ca3c7eeb7499.png)
 ![ScreenShot](./ca56e9aa-f903-4ab7-9d30-28370a024f0e.png)
 
->>>>>>> parent of 152d463 (Changes To Readme v5)
+
 
 <img width="33%" src="./ca56e9aa-f903-4ab7-9d30-28370a024f0e.png"> 
 
-test here
+
+/Users/anshulprasad/Documents/relegation_predictor/1bce132b-885d-4349-9d62-ca3c7eeb7499.png
+/Users/anshulprasad/Documents/relegation_predictor/ca56e9aa-f903-4ab7-9d30-28370a024f0e.png
 
 Loooking at this data, I realized that there exists a linear boundry between relegated teams and teams that survived. From this, I realized that for my use case, a logistic regression model would be best. In order to prep the data for training. I needed to label teams that finished 18-20th as relegated.
 
