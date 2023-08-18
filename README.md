@@ -13,6 +13,12 @@ When I first apporached the data, I first wanted to check for any discrepencies 
 Next I wanted to see the relationships that exist in the data. The follwoing graphs show realtionships between  wins,losses, draws and goal differential. Orange points represent teams that were relegated.
 
 
+<<<<<<< HEAD
+=======
+![ScreenShot](./1bce132b-885d-4349-9d62-ca3c7eeb7499.png)
+![ScreenShot](./ca56e9aa-f903-4ab7-9d30-28370a024f0e.png)
+
+>>>>>>> parent of 152d463 (Changes To Readme v5)
 
 <img width="33%" src="./ca56e9aa-f903-4ab7-9d30-28370a024f0e.png"> 
 
