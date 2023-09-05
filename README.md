@@ -13,9 +13,9 @@ When I first approached the data, I first wanted to check for any discrepancies.
 Next, I wanted to see the relationships that exist in the data. The following graphs show relationships between wins, losses, draws, and goal differential. Orange points represent teams that were relegated.
 
 
-![ca56e9aa-f903-4ab7-9d30-28370a024f0e](https://github.com/AnshulProjects/Premier_League_Relegation_Predictor/assets/142608527/6d3a4c1a-c48d-437b-970d-ed4d1839f689)
+![ca56e9aa-f903-4ab7-9d30-28370a024f0e](./1bce132b-885d-4349-9d62-ca3c7eeb7499.png)
 
-![1bce132b-885d-4349-9d62-ca3c7eeb7499](https://github.com/AnshulProjects/Premier_League_Relegation_Predictor/assets/142608527/63d1fb78-e317-46d6-9525-931d8312b019)
+![1bce132b-885d-4349-9d62-ca3c7eeb7499](./ca56e9aa-f903-4ab7-9d30-28370a024f0e.png)
 
 
 
